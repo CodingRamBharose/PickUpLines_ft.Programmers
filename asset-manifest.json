@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PickUpLines_ft.Programmers/static/css/main.9c1a91a0.css",
+    "main.js": "/PickUpLines_ft.Programmers/static/js/main.7eec70fd.js",
+    "static/js/787.1e474723.chunk.js": "/PickUpLines_ft.Programmers/static/js/787.1e474723.chunk.js",
+    "static/media/background1.png": "/PickUpLines_ft.Programmers/static/media/background1.9a79a38ba225fc29a64b.png",
+    "static/media/background.jpeg": "/PickUpLines_ft.Programmers/static/media/background.ec2e493078e7be64800f.jpeg",
+    "index.html": "/PickUpLines_ft.Programmers/index.html",
+    "main.9c1a91a0.css.map": "/PickUpLines_ft.Programmers/static/css/main.9c1a91a0.css.map",
+    "main.7eec70fd.js.map": "/PickUpLines_ft.Programmers/static/js/main.7eec70fd.js.map",
+    "787.1e474723.chunk.js.map": "/PickUpLines_ft.Programmers/static/js/787.1e474723.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c1a91a0.css",
+    "static/js/main.7eec70fd.js"
+  ]
+}
